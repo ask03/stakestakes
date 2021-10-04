@@ -513,7 +513,7 @@ function App(props) {
             */}
 
             <Contract
-              name="YourContract"
+              name="Staker"
               signer={userSigner}
               provider={localProvider}
               address={address}
